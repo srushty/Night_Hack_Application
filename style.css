@@ -1,0 +1,33 @@
+
+body{
+	background_color:"#FFFFFF";
+}
+#search{
+	float:left;
+	
+}
+#pic{
+	float:center; 
+}
+img{
+	height:150px;
+	width:300px;
+	border:1px solid #000000;
+}
+#content{
+	fornt_size:16px;
+	font_family:Tohoma, sans-serif;
+}
+a:hover{
+	color:#cc0000;
+	text_decoration:none;
+	font_weight:bold;
+}
+#comment_area{
+	border:1px solid #000000;
+}
+.button{
+	position:relative;
+	text_align:left;
+}
+}
